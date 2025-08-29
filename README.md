@@ -1,4 +1,4 @@
-# Anlise de cargos e salarios
+# Análise de cargos e salários
 
 Como parte do meu 💻 trabalho escolar na faculdade ✨ Cruzeiro do Sul ✨ , no curso análise e desenvolvimento de sistemas realizei uma pesquisa sobre as tendências do mercado de tecnologia, e os resultados me surpreenderam! 😲 
 
